@@ -29,3 +29,12 @@ Customers can send orders every day but the warehouse only works Monday to Frida
 ### Transport_by_Logistic_Company
 * The logistics company has said they have on average 3 day delivery times to all locations. 
 * They transport goods on weekends but only deliver to customers from their local distribution centers on weekdays.
+
+## KPIs
+
+* Lead Time (Regular)
+* Lead Time (Express)
+* Warehouse processing (Cycle Time)
+* Delivery processing(Cycle Time, Regular)
+* Delivery processing(Cycle Time, Express)
+
